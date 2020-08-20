@@ -1,0 +1,3 @@
+Codificação:
+Utilizaremos as seguintes tecnologias: JAVA para o desenvolvimento Android e Swift para o desenvolvimento Apple.
+IDE: NetBEANS, Java.

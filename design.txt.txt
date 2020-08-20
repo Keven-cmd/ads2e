@@ -1,0 +1,3 @@
+DESIGN:
+O programa será mobile, disponível para as plataformas Android e IOS.
+No aplicativo o cliente terá a opção de comprar passagens, colocará a quantidade e será gerado o valor total com base em 10 dólares por pessoa, podendo optar por dinheiro, cartão de débito ou crédito.

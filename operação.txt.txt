@@ -1,0 +1,1 @@
+Para acessar o aplicativo, o cliente terá que permitir localização em tempo real para que haja um monitoramento de qual Carro Voador está mais próximo dele, o mesmo será valido para o motorista.

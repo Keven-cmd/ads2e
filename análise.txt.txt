@@ -1,0 +1,2 @@
+Análise:
+O sistema funcionará como meio de ponte entre o cliente e o motorista do carro voador, com um preço definido de até 10 dólares por viagem.
